@@ -1,0 +1,90 @@
+body
+{
+background-color:#ffffff;
+}
+
+h1
+{
+	text-align:center;
+}
+
+p {
+  text-align: center;
+}
+
+.nazwa
+{
+	font-size: 300%;
+    text-align: center;
+    padding-top: 50px;
+	padding-bottom:2px;
+	}
+	
+.menu
+{
+	font:Arial;
+	font-size: 200%;
+  text-align:center;
+  padding-top:60px;
+  padding-bottom:30px;
+  
+
+}
+
+.login{
+	
+  max-width:350px;
+  padding:60px 60px;
+  background-color:#F7F7F7;
+  margin:0 auto 0px;
+  margin-top:50px;
+}
+
+h1
+{
+	text-align:center;
+}
+
+.dropdown-menu
+{
+background-color:#3c424c;
+text-align:center;
+width: 200px;
+height: 100px;
+
+}
+.dropdown-submenu {
+	display:block;
+	position:block;
+	text-align:center;
+	background-color:#3c424c;
+}
+
+.dropdown-submenu .dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top: -1px;
+}
+
+.dropdown-submenu:hover > ul
+{
+	display:block;
+}
+
+.rejestru{
+
+  width:350px;
+  padding:20px 60px;
+  background-color:#F7F7F7;
+  margin:0 auto 0px;
+  margin-top:50px;
+}
+
+.rejestrs{
+	text-align:relative;
+  width:350px;
+  padding:20px 60px;
+  background-color:#F7F7F7;
+  margin:0 auto 0px;
+  margin-top:50px;
+}
